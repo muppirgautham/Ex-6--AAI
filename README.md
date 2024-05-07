@@ -1,7 +1,7 @@
-## NAME: M Gautham
-## REGISTER NO: 212221230027
-## EX. NO: 5
-## DATE: 24/04/24
+### NAME: M Gautham
+### REGISTER NO: 212221230027
+### EX. NO: 5
+### DATE: 24/04/24
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
 <H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
